@@ -1,4 +1,4 @@
-## Oiii eu sou o Anselmo Caviquini, estudante de TI e analista de suporte senior!
+## Prazer, me chamo Anselmo Caviquini, estudante de TI e analista de suporte senior!
 <div align="center">
   <a href="https://github.com/AnselmoCaviquini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnselmoCaviquini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
